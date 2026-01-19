@@ -1,5 +1,5 @@
 {
-  "name": "@uoc/yauiselib",
+  "name": "@uocdev/yauiselib",
   "version": "1.0.0",
   "description": "utils for back-end website",
   "license": "MIT",
@@ -40,12 +40,12 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/uoc/Yauiselib"
+    "url": "https://github.com/uocdev/Yauiselib"
   },
 
   "bugs": {
-    "url": "https://github.com/uoc/Yauiselib/issues"
+    "url": "https://github.com/uocdev/Yauiselib/issues"
   },
 
-  "homepage": "https://github.com/uoc/Yauiselib#readme"
+  "homepage": "https://github.com/uocdev/Yauiselib#readme"
 }
