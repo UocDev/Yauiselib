@@ -1,4 +1,4 @@
 export function cout(text: string): void {
-  console.log('${text}');
+  console.log(`${text}`);
 }
 
