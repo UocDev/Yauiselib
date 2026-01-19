@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "rootDir": "src",
+    "strict": true,
+    "declaration": true,
+    "declarationDir": "dist",
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
