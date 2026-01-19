@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@uoc/yauiselib": "file:../Yauiselib"
+    "@uocdev/yauiselib": "file:~/Yauiselib"
   }
 }
