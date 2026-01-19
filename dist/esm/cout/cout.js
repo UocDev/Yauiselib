@@ -1,3 +1,3 @@
 export function cout(text) {
-    console.log('${text}');
+    console.log(`${text}`);
 }
