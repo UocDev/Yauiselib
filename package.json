@@ -30,7 +30,9 @@
     "build:esm": "tsc -p tsconfig.esm.json",
     "build:cjs": "tsc -p tsconfig.cjs.json",
     "build": "npm run build:esm && npm run build:cjs",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "install:dev": "npm install --prefix ./tesyl",
+    "test:dev": "node tesyl/index"
   },
 
   "devDependencies": {
