@@ -1,2 +1,1 @@
-# Yauiselib
-A open source back-end Node Package Manager (NPM) package
+for documentations, this package still new, so in future i will update this README
