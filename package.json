@@ -7,7 +7,12 @@
   "type": "module",
 
   "keywords": [
-    "nodejs"
+    "nodejs",
+    "typescript",
+    "ts",
+    "fun",
+    "playground",
+    "random"
   ],
 
   "main": "./dist/cjs/index.cjs",

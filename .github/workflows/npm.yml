@@ -1,9 +1,10 @@
-ame: Publish NPM Package
+name: Publish NPM Package
 
 on:
   push:
     tags:
       - 'v*.*.*'
+  workflow_dispatch:
 
 jobs:
   publish:
