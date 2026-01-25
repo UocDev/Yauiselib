@@ -47,12 +47,12 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/uocdev/Yauiselib"
+    "url": "https://github.com/UocDev/Yauiselib"
   },
 
   "bugs": {
-    "url": "https://github.com/uocdev/Yauiselib/issues"
+    "url": "https://github.com/UocDev/Yauiselib/issues"
   },
 
-  "homepage": "https://github.com/uocdev/Yauiselib#readme"
+  "homepage": "https://github.com/UocDev/Yauiselib#readme"
 }
