@@ -1,0 +1,6 @@
+src/
+tesyl/
+
+*.json   
+
+.gitignore
