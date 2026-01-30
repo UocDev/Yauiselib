@@ -23,3 +23,12 @@ import { coutint } from '@uocdev/yauiselib';
 
 coutint(18, 2.29, 19);
 ```
+
+#### randomInt()
+`randomInt()` is function to generate random numbers (ints) based on range, here for example:
+```js
+import { randomInt, coutint } from '@uocdev/yauiselib';
+
+const value = randomInt(28);
+coutint(value);
+```
