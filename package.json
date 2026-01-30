@@ -1,11 +1,10 @@
 {
   "name": "@uocdev/yauiselib",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "random package for NPM fun only :3",
   "license": "MIT",
   "author": "Uoc",
   "type": "module",
-
   "keywords": [
     "nodejs",
     "typescript",
@@ -14,23 +13,20 @@
     "playground",
     "random"
   ],
-
   "main": "./dist/cjs/index.js",
   "types": "./dist/index.d.ts",
-
   "exports": {
     ".": {
       "import": "./dist/esm/index.js",
       "require": "./dist/cjs/index.cjs"
     }
   },
-
-  "files": ["dist"],
-
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=18"
   },
-
   "scripts": {
     "build:esm": "tsc -p tsconfig.esm.json",
     "build:cjs": "tsc -p tsconfig.cjs.json",
@@ -39,20 +35,16 @@
     "install:dev": "npm install --prefix ./tesyl",
     "test:dev": "node tesyl/index"
   },
-
   "devDependencies": {
     "typescript": "^5.3.3",
     "@types/node": "^25.0.9"
   },
-
   "repository": {
     "type": "git",
     "url": "https://github.com/UocDev/Yauiselib"
   },
-
   "bugs": {
     "url": "https://github.com/UocDev/Yauiselib/issues"
   },
-
   "homepage": "https://github.com/UocDev/Yauiselib#readme"
 }
